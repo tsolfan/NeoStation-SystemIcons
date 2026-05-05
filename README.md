@@ -1,6 +1,6 @@
 ![Preview](preview.png)
 
-System Icons for use in RetroHrai, in 8:7 aspect ratio.  I went mostly with ES-DE naming conventions that prioritizes European systems, like SNES with North American version being SNESNA.
+System Icons for use in NeoStation, in 8:7 aspect ratio.  I went mostly with ES-DE naming conventions that prioritizes European systems, like SNES with North American version being SNESNA.
 
 I personally use FinalBurnNeo for arcade, using Mame only for a handful of games, so my Mame image plays favorites.
 
